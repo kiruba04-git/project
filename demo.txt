@@ -1,0 +1,3 @@
+this is master/main
+
+this is line1 from developer1 as a master
